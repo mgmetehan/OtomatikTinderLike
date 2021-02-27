@@ -21,4 +21,5 @@ tinder.py'yi masaüstününe koyun sonra cmd ekranını yeniden açıp
 Hata 
 
 Eğer pip komutunda hatalırsanız https://www.youtube.com/watch?v=zYdHr-LxsJ0 bu linki izleyin
+
 Pyautogui ile hata alırsanız pip install python yapın sonra pip install pyautogui yapın
