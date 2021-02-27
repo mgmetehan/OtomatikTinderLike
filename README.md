@@ -1,4 +1,4 @@
-# Otomatik-Tinder-Like
+# OtomatikTinderLike
 Python ile Otomatil Tinder Like bottu 
 
 ![1](https://user-images.githubusercontent.com/41691766/109368897-b8cb3d00-78ab-11eb-8a82-6c5600fe9cbe.png)
