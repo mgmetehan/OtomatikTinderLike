@@ -16,7 +16,7 @@ cmd ekranından
 Nasıl çalıştırıcam ?
 tinder.py'yi masaüstününe koyun sonra cmd ekranını yeniden açıp
 1-cd Desktop 
-2-python tinder.py yapın hata alırsanız hata yorum satırını okuyunuz(kodda en altta)
+2-python tinder.py yapın hata alırsanız hata yorum satırını okuyunuz
 
 Hata 
 Eğer pip komutunda hatalırsanız https://www.youtube.com/watch?v=zYdHr-LxsJ0 bu linki izleyin
